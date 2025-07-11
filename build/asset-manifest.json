@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.db9109a8.css",
+    "main.js": "/static/js/main.90ee0a31.js",
+    "static/js/977.4e506c2e.chunk.js": "/static/js/977.4e506c2e.chunk.js",
+    "static/js/455.e0e4aba6.chunk.js": "/static/js/455.e0e4aba6.chunk.js",
+    "static/js/453.4253c0be.chunk.js": "/static/js/453.4253c0be.chunk.js",
+    "static/media/logocyberbells.png": "/static/media/logocyberbells.26118675f8f69e23e45b.png",
+    "static/media/LOGO.png": "/static/media/LOGO.e5ec37b5ce3b2d314b23.png",
+    "static/media/cyberlogo.png": "/static/media/cyberlogo.de719d1896d3bee09b4d.png",
+    "static/media/male_svg.svg": "/static/media/male_svg.23eee0e3afc852d7d0cfddf3461aaad5.svg",
+    "static/media/female_svg.svg": "/static/media/female_svg.c77e537fe4eaa9c0034ac479b2004c4d.svg",
+    "index.html": "/index.html",
+    "main.db9109a8.css.map": "/static/css/main.db9109a8.css.map",
+    "main.90ee0a31.js.map": "/static/js/main.90ee0a31.js.map",
+    "977.4e506c2e.chunk.js.map": "/static/js/977.4e506c2e.chunk.js.map",
+    "455.e0e4aba6.chunk.js.map": "/static/js/455.e0e4aba6.chunk.js.map",
+    "453.4253c0be.chunk.js.map": "/static/js/453.4253c0be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db9109a8.css",
+    "static/js/main.90ee0a31.js"
+  ]
+}
